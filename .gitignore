@@ -1,0 +1,4 @@
+target/
+##### STS #####
+.apt_generated
+test2.txt
